@@ -1,0 +1,27 @@
+C:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\bin\Debug\Liste Patineurs.exe.config
+C:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\bin\Debug\Liste Patineurs.exe
+C:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\bin\Debug\Liste Patineurs.pdb
+C:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\bin\Debug\Liste Patineurs.xml
+C:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.vbproj.AssemblyReference.cache
+C:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.vbproj.ResolveComReference.cache
+C:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste_Patineurs.FrmListePatineurs.resources
+C:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste_Patineurs.Resources.resources
+C:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.vbproj.GenerateResource.cache
+C:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.vbproj.CoreCompileInputs.cache
+C:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.exe
+C:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.xml
+C:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.pdb
+D:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\bin\Debug\Liste Patineurs.exe.config
+D:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\bin\Debug\Liste Patineurs.exe
+D:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\bin\Debug\Liste Patineurs.pdb
+D:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\bin\Debug\Liste Patineurs.xml
+D:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.vbproj.AssemblyReference.cache
+D:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.vbproj.SuggestedBindingRedirects.cache
+D:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.vbproj.ResolveComReference.cache
+D:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste_Patineurs.FrmListePatineurs.resources
+D:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste_Patineurs.Resources.resources
+D:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.vbproj.GenerateResource.cache
+D:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.vbproj.CoreCompileInputs.cache
+D:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.exe
+D:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.xml
+D:\MULTIHEXA\Actual-E14- Entretien de system\Tp1\Liste Patineurs\Liste Patineurs\obj\Debug\Liste Patineurs.pdb
